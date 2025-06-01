@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/kirillareka.hu/static/css/main.ea2e55d3.css",
-    "main.js": "/kirillareka.hu/static/js/main.216fc7a5.js",
-    "static/media/under_construction.jpg": "/kirillareka.hu/static/media/under_construction.e6decb0f6e12177fa06f.jpg",
-    "index.html": "/kirillareka.hu/index.html",
-    "main.ea2e55d3.css.map": "/kirillareka.hu/static/css/main.ea2e55d3.css.map",
-    "main.216fc7a5.js.map": "/kirillareka.hu/static/js/main.216fc7a5.js.map"
+    "main.css": "./static/css/main.ea2e55d3.css",
+    "main.js": "./static/js/main.f5c2d599.js",
+    "static/media/under_construction.jpg": "./static/media/under_construction.e6decb0f6e12177fa06f.jpg",
+    "index.html": "./index.html",
+    "main.ea2e55d3.css.map": "./static/css/main.ea2e55d3.css.map",
+    "main.f5c2d599.js.map": "./static/js/main.f5c2d599.js.map"
   },
   "entrypoints": [
     "static/css/main.ea2e55d3.css",
-    "static/js/main.216fc7a5.js"
+    "static/js/main.f5c2d599.js"
   ]
 }
